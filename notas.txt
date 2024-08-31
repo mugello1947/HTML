@@ -1,0 +1,19 @@
+- git gerencia versões
+- github 
+
+- git init - inicia o repositório
+- git clone - download do código
+- git add <nome do arquivo> - adiciona o código para colocar o pacote
+- git status - verifica o que está ou não incluso no próximo pacote
+
+- git config user.name "seu nome aqui"- definir qual será o nome do commit
+- git config user.email "mugello@uol.com.br"
+
+- git commit --message "mensagem do commit" - fechar o pacote
+- git log - verifica os pacotes fechados
+
+- git remote add origin <link-repositorio.git> - diz qual onde será enviado os pacotes
+- git branch -M main - renomear a ramificação
+- git push origin main - enviar os pacotes fechados da dua maquina
+
+- git pull origin main - pegar os pacotes fechados que não estão na sua maquina
